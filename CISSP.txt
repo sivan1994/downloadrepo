@@ -1,0 +1,35 @@
+Templates to make security policies
+>www.sans.org
+>Resources>Security Policy Templates
+Risk = Threat * Vulnerability
+Risk cannot be eliminated
+>There is always risk.
+Risk Management Principles
+1. Mitigation >Reducing
+2. Acceptance > Planning after risk happens
+3. Transfer > Buying insurance
+4. Avoidance> avoiding business in high risk areas.
+
+AV- Asset Value
+EF- Exposure Factor
+SLE- Single Loss Expectancy= AV * EF
+ARO- Annual Rate Occurancy= Event number/N, N= Number of years
+ALE- Annual Loss Expectancy= SLE * ARO
+
+Quantitative vs. Qualitaive Risk Analysis:
+>Quantitative- A mathematical estimate based on the historical occurances of an incident.
+>Qualitaive- A best-guess estimate based on the judgement and experience of analysts
+BCP- Business Continuity Plan - Not technical doc - Most important business funtion we need to recover first to be able to run the business.
+DRP- Disaster Recovery Plan - technical doc- It is part of BCP
+BIA- Business Impact Analysis - Most imp part of BCP
+>Project Planning and Development
+>Data Colection
+>Criticality Assessment
+>Vulnerability Assessment
+MTD- Maximum Tolerable Downtime
+RTO- Recovery Time Objectives
+RPO- Recovery Point Objectives
+MTTF- Mean time to failure(we need to increase)
+MTTR- Mean time to repair(we need to decrease)
+Everything will be listed in BCP including evacuation plan
+Any emergency situation we have to follow BCP
